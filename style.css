@@ -1,0 +1,23 @@
+.header{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+}
+*{
+    border: none;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+.desc{
+    text-align: center;
+}
+.item{
+    text-align: center;
+}
